@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  background: black;
+  justify-content: center;
+  align-items: center;
+}
+
+#canvas1 {
+  width: 800px;
+  height: 600px;
+  border: 3px solid white;
+}
